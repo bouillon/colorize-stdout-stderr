@@ -139,4 +139,7 @@ I also tried creating another version and even a kernel module, but that didn’
 
 For now, Python is enough for me. I’ll come back and try again later.
 
+
 See also: :ref:`python.log`
+
+Homepage: https://vavpc.de/log_notes_howtos/2025-02-01__stderr_out_python.html
